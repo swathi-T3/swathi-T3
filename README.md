@@ -67,7 +67,6 @@ Before it don't forget to check about me...
 - [Project-1](https://github.com/swathi-T3/Construct-Week-Project-1-Manual-Testing--BUG-HUNTERS--MASAI.git)
 - [Project-2](https://github.com/swathi-T3/Build-Week-Project-2-Manual-Testing-TUTORIALS-NINJA---MASAI.git)
 - [Project-3](https://github.com/swathi-T3/Build-Week-Project-3-MT-AT-CYPRESS-ORANGEHRM-MASAI-.git)
-- [E-Mail](swathithoorpati03@gmail.com)
 
 ### Currently Learning 
 API-Testing with POSTMAN
@@ -75,6 +74,7 @@ API-Testing with POSTMAN
 ## 📫 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/thoorpati-swathi-41452525a)
 - 💻 [GitHub](https://github.com/swathi-T3)
+- 🧑‍💻[E-Mail](swathithoorpati03@gmail.com)
 - 🌐 Portfolio: *Coming Soon😉*
 
 > “As a fresher, I believe it’s not about knowing everything — it’s about being **curious, committed, and capable of learning fast**.”
