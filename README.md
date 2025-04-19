@@ -1,4 +1,4 @@
-# Hola-All-About-ME
+# Hola! Everyone, About-ME?
 ## ***Aspiring Software Testing Engineer | Lifelong Learner***
 
 Hello! I'm **Thoorpati Swathi**, a fresher with a strong drive to thrive in the ever-evolving world of technology. In this fast-paced industry, I believe staying updated with in-demand skills is the key to success. To bridge the gap between academic knowledge and industry expectations, I joined **Masai School**, where I have been continuously improving my **technical** and **interpersonal skills** in a professional and structured way.
@@ -18,8 +18,25 @@ As a fresher, I wanted to:
 - Practice **real-world tools** with projects and case studies
 - Improve **communication, confidence**, and **collaboration skills**
 Every day at Masai made me more confident, curious, and consistent — and that’s what I carry forward into my professional path.Masai gave me the platform to grow not just technically but **professionally**.
-### ***By having look of my journey, You guys curious to now more about masai***
-[MASAI](https://www.masaischool.com/)
+> “Masai taught me to stay curious, consistent, and confident — and now I’m ready to step into the real world as a professional software tester.”
+
+### ***I will let you chill to know about this!*** [MASAI](https://www.masaischool.com/)
+
+🤓 Brain before Masai:
+
+```404 Skills Not Found```
+
+Brain after Masai:
+
+```200 OK – Test Automation Deployed Successfully 🚀```
+
+😂 Nobody:
+Me after joining Masai:
+“Dude!😎, let me write test cases for your life decisions.”
+
+Feeling excited to know about this right? I know, why are you here have look into website,
+Before it don't forget to check about me...
+
 
 ##  ***Skills***
 
@@ -28,11 +45,37 @@ Every day at Masai made me more confident, curious, and consistent — and that�
 - Automation: **Selenium (Java)**, **Cypress (JavaScript)**, **TestNG**, **Cucumber BDD**
 - API Testing: **Postman**, REST API basics
 - Bug & Test Management: **Jira**, **Bugzilla**, **Zephyr**, **TestRail**
-- Reporting: **ExtentReports**, TestNG Reports
+- Reporting: **ExtentReports**, TestNG Reports, RTM, Summary reports
+
+## 🧠 Soft Skills
+
+- Strong problem-solving and analytical mindset  
+- Excellent communication and collaboration skills  
+- Dedicated, adaptable, and always ready to learn  
+- Able to work independently and in agile teams
 
 ###  ***Programming & Tools***
-- Languages: **Java**, **JavaScript**, **HTML**, **CSS**, **SQL**, **MySQL**
-- Tools: VS Code, Eclipse, Git, GitHub, Jenkins (basics)
-- Concepts: SDLC, STLC, Agile, Defect Life Cycle, RTM
+- Languages: **Java**, **JavaScript**, **HTML**, **CSS**, **SQL**
+- Tools: VS Code, Eclipse, STS, GitHub, Jenkins (basics), Jira, Zephyr, Burpsuite, Postman, mySQL workbench, X-mindmap, Cypress, Selenium, TestNG
+- Concepts:
+  Manual Testing
+  - SDLC, STLC, Agile, Defect Life Cycle, RTM, Test Scenarios and Cases, Scenario based Testing, Levels of Testing, UAT
+  Automation Testing
+  - Test scripts, Tools
 
+### 📁 Projects
+- [Project-1](https://github.com/swathi-T3/Construct-Week-Project-1-Manual-Testing--BUG-HUNTERS--MASAI.git)
+- [Project-2](https://github.com/swathi-T3/Build-Week-Project-2-Manual-Testing-TUTORIALS-NINJA---MASAI.git)
+- [Project-3](https://github.com/swathi-T3/Build-Week-Project-3-MT-AT-CYPRESS-ORANGEHRM-MASAI-.git)
+- [E-Mail](swathithoorpati03@gmail.com)
+
+### Currently Learning 
+API-Testing with POSTMAN
+
+## 📫 Let's Connect!
+- 💼 [LinkedIn](https://www.linkedin.com/in/thoorpati-swathi-41452525a)
+- 💻 [GitHub](https://github.com/swathi-T3)
+- 🌐 Portfolio: *Coming Soon😉*
+
+> “As a fresher, I believe it’s not about knowing everything — it’s about being **curious, committed, and capable of learning fast**.”
 
