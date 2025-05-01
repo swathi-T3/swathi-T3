@@ -41,10 +41,10 @@ Before it, don't forget to check about me...
 ##  ***Skills***
 
 ### 🔍 Software Testing
-- Manual Testing: Functional and NOn-Functional, Regression, Smoke, Sanity, Exploratory, UAT
+- Manual Testing: Functional and Non-Functional, Regression, Smoke, Sanity, Exploratory, UAT(User Acceptance Testing)
 - Automation: **Selenium (Java)**, **Cypress (JavaScript)**, **TestNG**, **Cucumber BDD**, **POM**
 - API Testing: **Postman**, REST API basics
-- Bug & Test Management: **Jira**, **Zephyr**, To learn -> **Bugzilla**, **TestRail** and **zoho**
+- Bug & Test Management: **Jira**, **Zephyr**, Upcoming: -> **Bugzilla**, **TestRail** and **zoho**
 - Reporting: **ExtentReports**, TestNG Reports, RTM, Summary reports
 
 ## 🧠 Soft Skills
