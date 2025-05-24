@@ -43,9 +43,12 @@ Before it, don't forget to check about me...
 ### 🔍 Software Testing
 - Manual Testing: Functional and Non-Functional, Regression, Smoke, Sanity, Exploratory, UAT(User Acceptance Testing)
 - Automation: **Selenium (Java)**, **Cypress (JavaScript)**, **TestNG**, **Cucumber BDD**, **POM**
-- API Testing: **Postman**, REST API basics
-- Bug & Test Management: **Jira**, **Zephyr**, Upcoming: -> **Bugzilla**, **TestRail** and **zoho**
-- Reporting: **ExtentReports**, TestNG Reports, RTM, Summary reports
+- API Testing: **Postman**, **REST Assured-with java**
+- Performance Testing: **Jmeter**
+- Security Testing: **Burpsuite**
+- Bug & Test Management: **Jira**, **Zephyr**,**Trello**
+- Reporting: RTM, Summary reports, **ExtentReports**, TestNG Reports
+-  Upcome Learnig: -> **Playright**, **Bugzilla**, **TestRail** and **zoho**
 
 ## 🧠 Soft Skills
 
@@ -56,7 +59,7 @@ Before it, don't forget to check about me...
 
 ###  ***Programming & Tools***
 - Languages: **Java**, **JavaScript**, **HTML**, **CSS**, **SQL**
-- Tools: VS Code, Eclipse, STS, GitHub, Jenkins (basics), Jira, Zephyr, Burpsuite, Postman, mySQL workbench, X-mindmap, Cypress, Selenium, TestNG
+- Tools: VS Code, Eclipse, STS, GitHub, Jenkins (basics), Jira, Zephyr, Burpsuite, Postman, mySQL workbench, X-mindmap, Cypress with JS, Selenium with java
 - Concepts:
   Manual Testing
   - SDLC, STLC, Agile, Defect Life Cycle, RTM, Test Scenarios and Cases, Scenario based Testing, Levels of Testing, Types of Testing and UAT
