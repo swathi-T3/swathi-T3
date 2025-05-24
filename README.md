@@ -72,8 +72,8 @@ Before it, don't forget to check about me...
 ## 📫 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/thoorpati-swathi-41452525a)
 - 💻 [GitHub](https://github.com/swathi-T3)
-- 🧑‍💻[E-Mail](swathithoorpati03@gmail.com)
-- 🗒️[Resume](https://in.docworkspace.com/d/sINjsguDBAfKkyMEG)
+- 🧑‍💻 [E-Mail](swathithoorpati03@gmail.com)
+- 🗒️ [Resume](https://in.docworkspace.com/d/sINjsguDBAfKkyMEG) reference[OverLeaf](https://www.overleaf.com/latex/templates/academic-cv-template/gmyytjmdbvdm)
 - 🌐 Portfolio: *Coming Soon😉*
 
 > “As a fresher, I believe it’s not about knowing everything — it’s about being **curious, committed, and capable of learning fast**.”
