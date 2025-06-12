@@ -1,83 +1,106 @@
-# Hola! Everyone, About-ME?
-## ***Aspiring Software Testing Engineer | Lifelong Learner***
+<!-- Header Banner -->
+<h1 align="center">Hi there! 👋 I'm Thoorpati Swathi</h1>
+<h3 align="center">Aspiring Software Testing Engineer | Automation Enthusiast | Lifelong Learner</h3>
 
-Hello! I'm **Thoorpati Swathi**, a fresher with a strong drive to thrive in the ever-evolving world of technology. In this fast-paced industry, I believe staying updated with in-demand skills is the key to success. To bridge the gap between academic knowledge and industry expectations, I joined **Masai School**, where I have been continuously improving my **technical** and **interpersonal skills** in a professional and structured way.
+<p align="center">
+  <a href="https://www.linkedin.com/in/thoorpati-swathi-41452525a"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="mailto:swathithoorpati03@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" /></a>
+  <a href="https://github.com/swathi-T3"><img src="https://img.shields.io/badge/GitHub-Portfolio-lightgrey?style=flat-square&logo=github" /></a>
+  <a href="https://in.docworkspace.com/d/sINjsguDBAfKkyMEG"><img src="https://img.shields.io/badge/Resume-View-orange?style=flat-square&logo=read-the-docs" /></a>
+</p>
 
-## ***Education*** 
-- 🎓 MCA - *Vaagdevi College of Engineering*
-- 🎓 B.Sc. in Computer Science - *Telangana Tribal Welfare Residential Degree College*
-- 🎓 Software Development Engineering in Test [SDET] Program at **Masai School**
-    - Learning industry-relevant tools, real-world problem-solving, and effective communication
-    - Fresh graduate passionate about becoming an **industry-ready QA Engineer**
+---
 
-##  ***Why Masai?***
-Joining **Masai** was a major step in my journey. It’s not just a course — it’s a **transformative experience**.
-As a fresher, I wanted to:
-- Stay updated with fast-moving tech trends
-- Build **in-demand skills** for today's job market
-- Practice **real-world tools** with projects and case studies
-- Improve **communication, confidence**, and **collaboration skills**
-Every day at Masai made me more confident, curious, and consistent — and that’s what I carry forward into my professional path. Masai gave me the platform to grow not just technically but **professionally**.
-> “Masai taught me to stay curious, consistent, and confident — and now I’m ready to step into the real world as a professional software tester.”
+## 🧭 About Me
 
-### ***I will let you chill to know about this!*** [MASAI](https://www.masaischool.com/)
+🎓 I'm a **Software Testing Enthusiast** with a Master's in Computer Applications and a specialization in SDET from **Masai School**.  
+🛠️ My passion lies in delivering bug-free applications with precision and professional QA practices.  
+🌱 Currently diving deeper into **Playwright**, **Bugzilla**, and **TestRail**.  
+💬 Ask me about manual testing, automation frameworks, or how to write effective test cases!
 
-🤓 Brain before Masai:
+---
 
-```404 Skills Not Found```
+## 🧰 Skills & Toolset
 
-Brain after Masai:
+### 🧪 Testing Expertise
+- **Manual Testing**: Functional, Regression, Smoke, Sanity, UAT, Exploratory
+- **Automation Tools**: Selenium (Java), Cypress (JavaScript), TestNG, Cucumber BDD, POM Framework
+- **API Testing**: Postman, REST Assured (Java)
+- **Performance Testing**: JMeter
+- **Security Testing**: Burp Suite
 
-```200 OK – Test Automation Deployed Successfully 🚀```
+### 🔧 Test Management & Reporting
+- Jira | Zephyr | Trello | RTM | XMind
+- TestNG Reports | ExtentReports | Summary Reports
 
-😂 Nobody:
-Me after joining Masai:
-“Dude!😎, let me write test cases for your life decisions.”
+### 💻 Programming & Tech Stack
+- Languages: Java, JavaScript, SQL, HTML, CSS
+- Tools: GitHub, VS Code, Eclipse, STS, Jenkins (Basics), MySQL Workbench
 
-Feeling excited to know about this right? I know, why are you here have a look into website,
-Before it, don't forget to check about me...
+---
 
+## 📚 Education
 
-##  ***Skills***
+- 🎓 **MCA** – Vaagdevi College of Engineering  
+- 🎓 **B.Sc. Computer Science** – TTWRDC  
+- 🎓 **SDET Program** – Masai School  
+  > Hands-on experience with real-time projects, Agile practices, and industry tools.
 
-### 🔍 Software Testing
-- Manual Testing: Functional and Non-Functional, Regression, Smoke, Sanity, Exploratory, UAT(User Acceptance Testing)
-- Automation: **Selenium (Java)**, **Cypress (JavaScript)**, **TestNG**, **Cucumber BDD**, **POM**
-- API Testing: **Postman**, **REST Assured-with java**
-- Performance Testing: **Jmeter**
-- Security Testing: **Burpsuite**
-- Bug & Test Management: **Jira**, **Zephyr**,**Trello**
-- Reporting: RTM, Summary reports, **ExtentReports**, TestNG Reports
--  Upcome Learnig: -> **Playright**, **Bugzilla**, **TestRail** and **zoho**
+---
+
+## 🚀 Projects
+
+### 🔹 [Project 1 – Manual Testing | Bug Hunters](https://github.com/swathi-T3/Construct-Week-Project-1-Manual-Testing--BUG-HUNTERS--MASAI.git)
+- Manual test design for an e-commerce platform
+- Created RTM, test scenarios, test cases & defect reports
+
+### 🔹 [Project 2 – Tutorials Ninja Manual Testing](https://github.com/swathi-T3/Build-Week-Project-2-Manual-Testing-TUTORIALS-NINJA---MASAI.git)
+- Regression and exploratory testing
+- Test documentation using Jira & XMind
+
+### 🔹 [Project 3 – Automation with Cypress | OrangeHRM](https://github.com/swathi-T3/Build-Week-Project-3-MT-AT-CYPRESS-ORANGEHRM-MASAI-.git)
+- Automated login, dashboard and leave module
+- Framework: Cypress + JavaScript | Reports via HTML
+
+---
+
+## 🌱 Currently Exploring
+
+- 🧪 **Playwright** for browser automation  
+- 📋 **TestRail** & **Bugzilla** for professional test case management  
+- 🧰 Advanced Test Automation Frameworks & CI/CD with Jenkins
+
+---
 
 ## 🧠 Soft Skills
 
-- Strong problem-solving and analytical mindset  
-- Excellent communication and collaboration skills  
-- Dedicated, adaptable, and always ready to learn  
-- Able to work independently and in agile teams
+- ✅ Analytical & Problem-Solving
+- ✅ Team Collaboration & Agile Adaptability
+- ✅ Effective Communication
+- ✅ Fast Learner & Self-Starter
 
-###  ***Programming & Tools***
-- Languages: **Java**, **JavaScript**, **HTML**, **CSS**, **SQL**
-- Tools: VS Code, Eclipse, STS, GitHub, Jenkins (basics), Jira, Zephyr, Burpsuite, Postman, mySQL workbench, X-mindmap, Cypress with JS, Selenium with java
-- Concepts:
-  Manual Testing
-  - SDLC, STLC, Agile, Defect Life Cycle, RTM, Test Scenarios and Cases, Scenario based Testing, Levels of Testing, Types of Testing and UAT
-  Automation Testing
-  - Test scripts, Tools
+---
 
-### 📁 Projects
-- [Project-1](https://github.com/swathi-T3/Construct-Week-Project-1-Manual-Testing--BUG-HUNTERS--MASAI.git)
-- [Project-2](https://github.com/swathi-T3/Build-Week-Project-2-Manual-Testing-TUTORIALS-NINJA---MASAI.git)
-- [Project-3](https://github.com/swathi-T3/Build-Week-Project-3-MT-AT-CYPRESS-ORANGEHRM-MASAI-.git)
+## 📈 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=swathi-T3&show_icons=true&theme=radical" alt="GitHub Stats" width="450"/>
+  <img src="https://streak-stats.demolab.com?user=swathi-T3&theme=radical" alt="GitHub Streak" width="450"/>
+</p>
 
-## 📫 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/thoorpati-swathi-41452525a)
-- 💻 [GitHub](https://github.com/swathi-T3)
-- 🧑‍💻 [E-Mail](swathithoorpati03@gmail.com)
-- 🗒️ [Resume](https://in.docworkspace.com/d/sINjsguDBAfKkyMEG) reference[OverLeaf](https://www.overleaf.com/latex/templates/academic-cv-template/gmyytjmdbvdm)
-- 🌐 Portfolio: *Coming Soon😉*
+---
 
-> “As a fresher, I believe it’s not about knowing everything — it’s about being **curious, committed, and capable of learning fast**.”
+## 🔗 Let's Connect
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/thoorpati-swathi-41452525a"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:swathithoorpati03@gmail.com"><img src="https://img.shields.io/badge/Gmail-Send-blue?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://github.com/swathi-T3"><img src="https://img.shields.io/badge/GitHub-View-grey?style=for-the-badge&logo=github" /></a>
+  <a href="https://in.docworkspace.com/d/sINjsguDBAfKkyMEG"><img src="https://img.shields.io/badge/Resume-Download-orange?style=for-the-badge&logo=read-the-docs" /></a>
+</p>
+
+---
+
+<p align="center"><i>"I may be a fresher, but I bring curiosity, consistency, and a hunger to learn — ready to contribute and grow in real-world QA challenges."</i></p>
+
+---
