@@ -19,7 +19,7 @@ Hi! I'm **Thoorpati Swathi**, an aspiring **Software Test Engineer** with hands-
 - 🎓 MCA from Vaagdevi College of Engineering  
 - 📘 B.Sc. in Computer Science from TTWRDC  
 - 📚 SDET Trainee @ Masai School  
-- 🌱 Currently learning Playwright, TestRail, Zoho Projects  
+- 🌱 Want to learn Other Tools in demand  
 
 > *“As a fresher, I may not know everything — but I’m always learning, building, and improving.”*
 
@@ -38,7 +38,7 @@ Hi! I'm **Thoorpati Swathi**, an aspiring **Software Test Engineer** with hands-
 - **Languages:** Java, JavaScript, SQL, HTML, CSS  
 - **Test Management:** Jira, Zephyr, Trello  
 - **Reporting:** TestNG Reports, ExtentReports, RTM  
-- **IDEs:** Eclipse, VS Code, Spring Tool Suite  
+- **IDEs:** Eclipse, VS Code, Eclipse, Spring Tool Suite  
 - **Others:** GitHub, Jenkins (basic), XMind, MySQL Workbench  
 
 ---
@@ -59,7 +59,7 @@ Hi! I'm **Thoorpati Swathi**, an aspiring **Software Test Engineer** with hands-
 
 ---
 
-## 🎯 Currently Exploring
+## 🎯 Eagrly to Exploring
 
 - ✅ Playwright for automation  
 - 🐞 Bugzilla, Zoho Projects  
