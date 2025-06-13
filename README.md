@@ -43,10 +43,6 @@ Hi! I'm **Thoorpati Swathi**, an aspiring **Software Test Engineer** with hands-
 
 ---
 
-
-
----
-
 ## 📁 Projects
 
 ### 🚀 [Bug Hunters – E-Commerce Manual Testing](https://github.com/swathi-T3/Construct-Week-Project-1-Manual-Testing--BUG-HUNTERS--MASAI.git)
