@@ -19,7 +19,7 @@ Hi! I'm **Thoorpati Swathi**, an aspiring **Software Test Engineer** with hands-
 - 🎓 MCA from Vaagdevi College of Engineering  
 - 📘 B.Sc. in Computer Science from TTWRDC  
 - 📚 SDET Trainee @ Masai School  
-- 🌱 Want to learn Other Tools in demand  
+- 🌱 Currently learning Playwright, TestRail, Zoho Projects  
 
 > *“As a fresher, I may not know everything — but I’m always learning, building, and improving.”*
 
@@ -28,44 +28,45 @@ Hi! I'm **Thoorpati Swathi**, an aspiring **Software Test Engineer** with hands-
 ## 🧪 Skills & Toolset
 
 ### ✅ Manual & Automation Testing
-- **Manual Testing:** Functional, Regression, Smoke, Sanity, UAT, Exploratory  
-- **Automation Testing:** Selenium (Java), Cypress (JavaScript), TestNG, Cucumber BDD, POM  
-- **API Testing:** Postman, REST Assured (Java)  
-- **Performance Testing:** Apache JMeter  
-- **Security Testing:** Burp Suite  
+- **Manual Testing:** Functional, Regression, Smoke, Sanity, UAT, Exploratory
+- **Automation Testing:** Selenium (Java), Cypress (JavaScript), TestNG, Cucumber BDD, POM
+- **API Testing:** Postman, REST Assured (Java)
+- **Performance Testing:** Apache JMeter
+- **Security Testing:** Burp Suite
 
 ### 🧰 Tools & Technologies
-- **Languages:** Java, JavaScript, SQL, HTML, CSS  
-- **Test Management:** Jira, Zephyr, Trello  
-- **Reporting:** TestNG Reports, ExtentReports, RTM  
-- **IDEs:** Eclipse, VS Code, Eclipse, Spring Tool Suite  
-- **Others:** GitHub, Jenkins (basic), XMind, MySQL Workbench  
+- **Languages:** Java, JavaScript, SQL, HTML, CSS
+- **Test Management:** Jira, Zephyr, Trello
+- **Reporting:** TestNG Reports, ExtentReports, RTM
+- **IDEs:** Eclipse, VS Code, Spring Tool Suite
+- **Others:** GitHub, Jenkins (basic), XMind, MySQL Workbench
+
+---
+
+
 
 ---
 
 ## 📁 Projects
 
 ### 🚀 [Bug Hunters – E-Commerce Manual Testing](https://github.com/swathi-T3/Construct-Week-Project-1-Manual-Testing--BUG-HUNTERS--MASAI.git)
-- Performed test planning, scenario writing, and bug reporting  
-- Tested search, cart, and checkout functionalities  
+- Performed test planning, scenario writing, and bug reporting
+- Tested search, cart, and checkout functionalities
 
 ### 🛍️ [Tutorials Ninja – Manual Test Suite](https://github.com/swathi-T3/Build-Week-Project-2-Manual-Testing-TUTORIALS-NINJA---MASAI.git)
-- Designed exhaustive test scenarios for an e-commerce platform  
-- Reported bugs and created user flow documentation  
+- Designed exhaustive test scenarios for an e-commerce platform
+- Reported bugs and created user flow documentation
 
 ### 💼 [OrangeHRM – Cypress Automation](https://github.com/swathi-T3/Build-Week-Project-3-MT-AT-CYPRESS-ORANGEHRM-MASAI-.git)
-- Automated login, employee directory, and dashboard validation  
-- Used Cypress + JavaScript for cross-browser test coverage  
+- Automated login, employee directory, and dashboard validation
+- Used Cypress + JavaScript for cross-browser test coverage
 
----
 
-## 🎯 Eagrly to Exploring
+## 🎯 Currently Exploring
 
-- ✅ Playwright for automation  
-- 🐞 Bugzilla, Zoho Projects  
-- 📊 TestRail and advanced BDD frameworks  
-
----
+- ✅ Playwright for automation
+- 🐞 Bugzilla, Zoho Projects
+- 📊 TestRail and advanced BDD frameworks
 
 ## 🌐 Let's Connect
 
