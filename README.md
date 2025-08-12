@@ -92,7 +92,7 @@ Database:       MySQL Workbench
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
   </a>
   &nbsp;
-  <a href="https://drive.google.com/file/d/1p2jpvqySVAqkXrpZkD-6Uf68WZ_exdv5/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1Wqw2Udtbe8htJqVmyL69D2C9yHJh8Mm5/view?usp=sharing" target="_blank">
     <img src="https://img.icons8.com/plasticine/100/resume.png" width="40" height="40" alt="Resume"/>
   </a>
 </p>
